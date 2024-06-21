@@ -1,0 +1,83 @@
+{
+  "easy": [
+    {
+      "question": "Match the Korean phrase to its English meaning:\n폼 미쳤다",
+      "options": ["Never give up.", "You're on fire.", "Freaked out.", "Make some noise."],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Match the Korean phrase to its English meaning:\n중꺾마",
+      "options": ["Can I have a discount, please?", "You're not my type.", "Never give up.", "I have a crush on you."],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Match the Korean phrase to its English meaning:\n똥줄탄다",
+      "options": ["Please be quiet.", "Unbelievable.", "Freaked out.", "I'll be late."],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Match the Korean phrase to its English meaning:\n현금으로 할 건대",
+      "options": ["It's not my style.", "Can I have a discount, please?", "Do your best.", "See you no more."],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Match the Korean phrase to its English meaning:\n돌아보고 올게요",
+      "options": ["It's not my style.", "She's hot.", "You're on fire.", "Crush on you."],
+      "correctAnswer": 0
+    }
+  ],
+  "intermediate": [
+    {
+      "question": "Match the Korean phrase to its English meaning:\n담타",
+      "options": ["Do your best.", "Let's take a break.", "I beg your pardon.", "Unbelievable."],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Match the Korean phrase to its English meaning:\n전세냈어?",
+      "options": ["Please be quiet.", "I don't like your clothes.", "Make some noise.", "What's wrong with you?"],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Match the Korean phrase to its English meaning:\n출발했어",
+      "options": ["You're not my type.", "I'll be late.", "Focus on your work.", "See you no more."],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Match the Korean phrase to its English meaning:\n밥 한 번 묵자",
+      "options": ["Crush on you.", "You're on fire.", "See you no more.", "Do your best."],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Match the Korean phrase to its English meaning:\n세금 더 내라",
+      "options": ["I'll be late.", "She's hot.", "Never give up.", "Excuse me."],
+      "correctAnswer": 1
+    }
+  ],
+  "advanced": [
+    {
+      "question": "Match the Korean phrase to its English meaning:\n띱",
+      "options": ["Unbelievable.", "It's mine.", "You want a piece of me?", "Do your best."],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Match the Korean phrase to its English meaning:\n너 뭐 돼?",
+      "options": ["You're not my type.", "I don't like your clothes.", "You want a piece of me?", "I'll be late."],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Match the Korean phrase to its English meaning:\n이왜진?",
+      "options": ["Unbelievable.", "Can I have a discount, please?", "I beg your pardon.", "You're on fire."],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Match the Korean phrase to its English meaning:\n진지한 얘기 중이에요",
+      "options": ["Crush on you.", "You're not my type.", "Please be quiet.", "Focus on your work."],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Match the Korean phrase to its English meaning:\n니 남친 지나간다",
+      "options": ["Would you please stop doing it?", "He's not attractive.", "See you no more.", "Never give up."],
+      "correctAnswer": 1
+    }
+  ]
+}
