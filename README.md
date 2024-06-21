@@ -16,4 +16,4 @@ Features a playlist of YouTube Shorts from 피식대학Psick Univ to show the pr
 </div>
 
 ## Demo
-Check out our [demo video](http://www.youtube.com/watch?v=INa49aEjpGc) to see the app in action.
+Check out the [demo video](http://www.youtube.com/watch?v=INa49aEjpGc) to see the app in action.
